@@ -17,11 +17,14 @@ Ngô Thị Thanh Tuyền – Business Analyst / UI/UX Support / Test Case Contri
 Quy trình nghiệp vụ & BPM:
 
 Quy trình đặt hàng tại quầy
+
 <img width="586" height="631" alt="image" src="https://github.com/user-attachments/assets/7058a392-8dca-4fa9-8ab0-e1c480f84536" />
 
 
 Quy trình xử lý đơn hàng của cửa hàng
+
 <img width="541" height="482" alt="image" src="https://github.com/user-attachments/assets/9ede00e1-0b93-4470-a17f-8bf1654cb46d" />
+
 ...
 
 Đặc tả chức năng & Sequence Diagram:
@@ -44,13 +47,16 @@ Sơ đồ Use Case: tổng quát & chi tiết
 Use Case tổng quát 
 
 <img width="586" height="297" alt="image" src="https://github.com/user-attachments/assets/a5893e04-937c-4dc1-8e10-6043a398802f" />
+
 Use Case chi tiết 
 
 <img width="586" height="365" alt="image" src="https://github.com/user-attachments/assets/2c31cf48-4940-4a1a-93fe-9dce25e12943" />
 <img width="586" height="368" alt="image" src="https://github.com/user-attachments/assets/5d4774b9-98ce-4314-83b4-dd7d4b1d016d" />
+
 ...
 
 Thiết kế dữ liệu: CDM, PDM, BFD
+
 <img width="586" height="247" alt="image" src="https://github.com/user-attachments/assets/d6cd63b8-72d4-45de-9668-23ec728bc536" />
 <img width="586" height="319" alt="image" src="https://github.com/user-attachments/assets/0c904e03-bbb7-4dc6-b60b-a19e0b7270a8" />
 
